@@ -1,0 +1,10 @@
+# Normalize line endings
+# Configuration for git attributes
+# Do not edit manually
+public/*.html linguist-vendored
+public/**/*.html linguist-vendored
+src/** linguist-detectable   
+build/* linguist-vendored
+go.sum linguist-generated
+*.map linguist-generated
+# eof 14ca0104
